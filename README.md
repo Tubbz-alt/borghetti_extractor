@@ -1,6 +1,7 @@
 # Borghetti Extractor
 
 Borghetti Extractor is a tool for scraping soccer odds from different bookmakers' websites.
+The name "Borghetti" is because italians' supportes used to drink "Borghetti Coffee" before attending soccer matches.
 
 ## Getting started
 
@@ -22,6 +23,7 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
 It will save documents in the various collections in "SoccerOdds" database.
 
 N.B. Work in progress!
