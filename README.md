@@ -1,7 +1,7 @@
 # Borghetti Extractor
 
 Borghetti Extractor is a tool for scraping soccer odds from different bookmakers' websites.
-The name "Borghetti" is because italians' supportes used to drink "Borghetti Coffee" before attending soccer matches.
+The name "Borghetti" is because italians' supporters use to drink "Borghetti Coffee" before attending soccer matches.
 
 ## Getting started
 
